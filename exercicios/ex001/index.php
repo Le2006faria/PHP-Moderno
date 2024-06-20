@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dados do servidor</title>
+    <link rel="stylesheet" href="../../desafios/desafio1/style.css">
 </head>
 <body>
     <h1>Dados do servidor</h1>
